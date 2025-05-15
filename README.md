@@ -1,4 +1,4 @@
-#Screen Template Matching Scanner
+# Screen Template Matching Scanner
 This project captures your screen and searches for a specific image template within the screenshot. It uses Python libraries mss for screen capture, OpenCV for image processing, and keyboard to control the scanning with keyboard input.
 
 Features
