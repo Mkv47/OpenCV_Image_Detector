@@ -1,7 +1,7 @@
-# Screen Template Matching Scanner
+# Moduler Screen Template Matching Scanner
 
-A simple Python tool to capture your screen and detect occurrences of a specified image template using OpenCV and MSS.  
-Control scanning and quitting with keyboard inputs.
+A Python module for detecting occurrences of a specific image template on your screen using OpenCV and MSS.  
+Designed for easy integration into other projects, allowing you to scan your screen programmatically with simple function calls.
 
 ---
 
